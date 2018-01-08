@@ -24,4 +24,12 @@ body {
 }
 
 /* Add your CSS here */
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
 
